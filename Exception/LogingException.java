@@ -1,4 +1,4 @@
-package com.rays.Exception;
+package exception;
 
 public class LogingException extends Exception{
  

@@ -1,4 +1,4 @@
-package com.rays.oop_PolymorphismOverriding;
+package oop_PolymorphismOverriding;
 
 public class Return_type {
 	public static void main(String[] args) {

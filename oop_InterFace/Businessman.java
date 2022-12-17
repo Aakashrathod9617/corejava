@@ -1,6 +1,6 @@
-package com.rays.oop_InterFace;
+package oop_InterFace;
 
-import com.rays.oop_InterFace.Richman.richman;
+import oop_InterFace.Richman.richman;
 
 public class Businessman implements richman,SocialWorker {
 

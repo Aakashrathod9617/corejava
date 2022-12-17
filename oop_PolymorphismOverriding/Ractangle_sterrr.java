@@ -1,4 +1,4 @@
-package com.rays.oop_PolymorphismOverriding;
+package oop_PolymorphismOverriding;
 
 public class Ractangle_sterrr extends Shape_setrrr {
 	private int length;

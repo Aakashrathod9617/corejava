@@ -1,4 +1,4 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 public class Smaller_number2 {
 

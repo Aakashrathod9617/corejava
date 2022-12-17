@@ -1,4 +1,4 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 public class Fibonacci_Number6 {
 	public static void main(String[] args) {

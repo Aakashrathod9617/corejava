@@ -1,4 +1,4 @@
-package com.rays.oop_Abstract;
+package oop_abstract;
 
 public abstract class Circle extends Shape {
 	private int radius;

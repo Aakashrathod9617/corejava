@@ -1,4 +1,4 @@
-package com.rays.Until_Date;
+package until_date;
 
 import java.time.LocalDate;
 import java.time.Period;

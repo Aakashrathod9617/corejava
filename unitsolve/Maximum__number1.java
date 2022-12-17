@@ -1,9 +1,9 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 public class Maximum__number1 {
 	public static void main(String[] args) {
 		
-		System.out.println(Math.max(30,25));
+		System.out.println(Math.max(30,55));
 	}
 	
 }

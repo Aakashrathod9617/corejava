@@ -1,4 +1,4 @@
-package com.rays.oop_Abstract;
+package oop_abstract;
 
 public class SemiCircal extends  Circle {
 	private int radius;

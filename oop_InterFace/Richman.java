@@ -1,4 +1,4 @@
-package com.rays.oop_InterFace;
+package oop_InterFace;
 
 public interface  Richman {
 	public interface richman{

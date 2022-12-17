@@ -1,4 +1,4 @@
-package com.rays.oop_PolymorphismOverriding;
+package oop_PolymorphismOverriding;
 
 public class Circle_setrrr extends Shape_setrrr {
 	

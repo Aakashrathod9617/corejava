@@ -1,4 +1,4 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 public class Prime_Number11 {
 

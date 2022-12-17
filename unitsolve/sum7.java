@@ -1,4 +1,4 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 public class sum7 {
 	public static void main(String[] args) {

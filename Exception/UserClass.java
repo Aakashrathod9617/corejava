@@ -1,4 +1,4 @@
-package com.rays.Exception;
+package exception;
 
 public class UserClass {
 	public static void main(String[] args) throws LogingException {

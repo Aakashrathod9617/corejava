@@ -1,4 +1,4 @@
-package com.rays.Until_Date;
+package until_date;
 
 public class Multiple_Assignments {
 	

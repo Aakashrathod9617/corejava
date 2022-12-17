@@ -1,4 +1,4 @@
-package com.rays.oop_PolymorphismOverriding;
+package oop_PolymorphismOverriding;
 
 public class Test_Overridingarrr2222 {
 	public static void main(String[] args) {

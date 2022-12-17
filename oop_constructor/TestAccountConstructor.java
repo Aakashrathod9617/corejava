@@ -1,4 +1,4 @@
-package com.rays.oop_constructor;
+package oop_constructor;
 
 public class TestAccountConstructor {
 	public static void main(String[] args) {

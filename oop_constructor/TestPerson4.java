@@ -1,5 +1,5 @@
 
-package com.rays.oop_constructor;
+package oop_constructor;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

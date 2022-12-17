@@ -1,4 +1,4 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 public class Random_number3 {
 

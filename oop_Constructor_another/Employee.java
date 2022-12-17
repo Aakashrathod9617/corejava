@@ -1,4 +1,4 @@
-package com.rays.oop_Constructor_another;
+package oop_constructor_another;
 
 public class Employee extends Person {
 	private String designation;

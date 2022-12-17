@@ -1,4 +1,4 @@
-package com.rays.oop_constructor;
+package oop_constructor;
 
 public class TestAutoMobileCostru {
 	public static void main(String[] args) {

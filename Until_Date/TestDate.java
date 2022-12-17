@@ -1,4 +1,4 @@
-package com.rays.Until_Date;
+package until_date;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

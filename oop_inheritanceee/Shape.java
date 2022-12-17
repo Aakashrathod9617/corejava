@@ -1,4 +1,4 @@
-package com.rays.oop_inheritanceee;
+package oop_inheritanceee;
 
 public class Shape {
 	private String color;

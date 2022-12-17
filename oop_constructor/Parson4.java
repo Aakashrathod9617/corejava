@@ -1,4 +1,4 @@
-package com.rays.oop_constructor;
+package oop_constructor;
 
 import java.util.Date;
 

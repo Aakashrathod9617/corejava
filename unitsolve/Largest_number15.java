@@ -1,4 +1,4 @@
-package com.rays.unitsolve;
+package unitsolve;
 
 import java.util.Arrays;
 

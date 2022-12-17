@@ -1,4 +1,4 @@
-package com.rays.oop_Abstract;
+package oop_abstract;
 
 public class TestShape {
 	public static void main(String[] args) {
